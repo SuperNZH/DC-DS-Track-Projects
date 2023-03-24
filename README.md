@@ -1,5 +1,13 @@
 # DataCamp projects
 
+This Repository mainly contains the contents of the project assignments provided by the Data Scientist Career Track Programme offered by DataCamp when I was working on them. This whole track is about 90 hours in total and after completed this programme, I attended the DataCamp Professional Data Scientist Certification Exam.
+
+If you are interested in this certification, please check [this](https://github.com/SuperNZH/DataCamp-Professional-DS-Certification). The certification process consists of two parts:
+
+* The Timed Exam DS202: This two-hour exam assesses programming and modeling skills in R or Python, as well as data management skills using SQL.
+* The Practical Exam DS601P: This exam involves analyzing a dataset in either R or Python and submitting findings for presentation to one of DataCamp's experts.
+
+
 ### Python
 
 :football: [TV, halftime shows, and the Big Game](https://github.com/SuperNZH/DC-DS-Track-Projects/blob/main/Python/TV_halftime_shows_and_the_Big_Game.ipynb)
